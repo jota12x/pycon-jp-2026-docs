@@ -2,6 +2,22 @@
 
 This repository contains the materials for my talk at PyCon JP 2026, titled "Python and language learning: How did Python help me get the JLPT N1?".
 
+## Table of Contents
+
+- [pycon-jp-2026-docs](#pycon-jp-2026-docs)
+  - [Table of Contents](#table-of-contents)
+  - [Abstract](#abstract)
+  - [Slides](#slides)
+  - [Open-source tools](#open-source-tools)
+  - [Reference books per level](#reference-books-per-level)
+    - [JLPT N5](#jlpt-n5)
+    - [JLPT N4](#jlpt-n4)
+    - [JLPT N3](#jlpt-n3)
+    - [JLPT N2](#jlpt-n2)
+    - [JLPT N1](#jlpt-n1)
+  - [Tips for studying](#tips-for-studying)
+  - [Resources](#resources)
+
 ## Abstract
 
 In April 2026, Japan added a JLPT N2 language requirement for some Engineer/Specialist visas. Most IT engineers are exempt, but these tighter rules highlight that Japanese proficiency is increasingly important for living and working in Japan.
@@ -69,3 +85,30 @@ My studied followed the order of the books below. I recommend starting the Shink
 - JLPT N2 is famous for being a "reading test". Time out your reading speed.
 - JLPT N1 is especially hard at vocabulary. Listening can be tricky even for highly immersed learners.
 - Ultimately the JLPT tests your Japanese proficiency, but it is not a measure of your ability to communicate in Japanese. I recommend using the JLPT as a guide for your studies, but not as a goal to speak properly. The goal is to learn organically. Use immersion to practice your speaking and listening skills.
+
+## Resources
+
+For the survey data from slide 7, please visit the following articles:
+
+- <https://2025.surveys.tokyodev.com/en-US>
+- <https://www.tokyodev.com/articles/japan-residents-only-why-some-japanese-firms-won-t-hire-english-speaking-developers-internationally>
+
+On spaced repetition please check:
+
+- Hermann Ebbinghaus (1885): For the original mathematical formulation of the forgetting curve and the initial discovery that distributed practice dramatically slows memory loss.
+
+- Robert A. Bjork & Elizabeth L. Bjork (1992, 1994): For the New Theory of Disuse and Desirable Difficulties. This explains why spacing works: retrieving an item when its immediate accessibility ("retrieval strength") has decayed causes a large increase in long-term durability ("storage strength").
+
+- Nicholas J. Cepeda et al. (2006): For the meta-analysis across over 14,000 participants proving the universal robust effect of spaced practice over massed practice.
+
+For the algorithms used in spaced repetition software, please check:
+
+- Piotr Wozniak (1987): Creator of the SuperMemo SM-2 algorithm, which served as the classic benchmark for computer-driven spaced repetition scheduling in software like Anki for over three decades.
+- [Understanding Spaced Repetition](https://help.remnote.com/en/articles/9337171-understanding-spaced-repetition)
+
+- Jarrett Ye & The Open Spaced Repetition Community (2022–2024): Creators of the Free Spaced Repetition Scheduler (FSRS). FSRS uses machine learning based on the Difficulty, Stability, Retrievability (DSR) model, which has been benchmarked on over 500 million review logs to reduce study workload by 20% to 30% compared to legacy heuristics.
+
+Finally the study of long-term memory retention for foreign language learning has been studied in:
+
+- Harry P. Bahrick et al. (1984, 1993): "Fifty years of memory for Spanish learned in school".
+
