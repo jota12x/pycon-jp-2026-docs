@@ -2,10 +2,8 @@
 
 This repository contains the materials for my talk at PyCon JP 2026, titled "Python and language learning: How did Python help me get the JLPT N1?".
 
-## Table of Contents
 
 - [pycon-jp-2026-docs](#pycon-jp-2026-docs)
-  - [Table of Contents](#table-of-contents)
   - [Abstract](#abstract)
   - [Slides](#slides)
   - [Open-source tools](#open-source-tools)
