@@ -24,7 +24,7 @@ This talk presents my wrestling with the Japanese language and how, from being a
 
 ## Slides
 
-Link to slides: [./slides.pdf]
+[Link to slides](https://github.com/jota12x/pycon-jp-2026-docs/blob/main/slides.pdf)
 
 ## Open-source tools
 
