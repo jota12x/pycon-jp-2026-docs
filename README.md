@@ -24,7 +24,7 @@ This talk presents my wrestling with the Japanese language and how, from being a
 
 ## Slides
 
-Link to slides: [https://docs.google.com/presentation/d/1g0k5J4v6]
+Link to slides: [./slides.pdf]
 
 ## Open-source tools
 
