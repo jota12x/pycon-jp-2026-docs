@@ -69,7 +69,7 @@ My studied followed the order of the books below. I recommend starting the Shink
 
 ### JLPT N1
 
-My studied followed the order of the books below. I recommend starting the Shinkanzen after finishing the easier Sou Matome. In six months time, I couldn't finish the grammar book.
+My studies followed the order of the books below. I recommend starting the Shinkanzen after finishing the easier Sou Matome. In six months time, I couldn't finish the grammar book.
 
 - Sou Matome N1 series (I avoided the listening book)
 - Try N1 Grammar (a little outdated, but still useful)
